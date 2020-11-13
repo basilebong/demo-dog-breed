@@ -1,0 +1,7 @@
+env:
+  browser: true
+extends:
+  - airbnb-base
+parserOptions:
+  ecmaVersion: 2015
+rules: { linebreak-style: "off" }

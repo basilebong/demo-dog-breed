@@ -1,0 +1,14 @@
+{
+  "name": "demo-image-classifier",
+  "version": "1.0.0",
+  "description": "Image classifier demo with pretrained model",
+  "repository": "https://github.com/basilebong/demo-image-classifier",
+  "author": "Basile Bong <info@basilebong.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.22.1"
+  }
+}
